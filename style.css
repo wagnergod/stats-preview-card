@@ -61,7 +61,6 @@ body{
 
 .card .card-stats .card-numbers{
 	display: inline-flex;
-	flex-wrap: wrap;
 	flex-direction: row;
 	position: relative;
 	padding: 20px 0;
